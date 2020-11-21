@@ -1,0 +1,7 @@
+D:\LTDTBuoi01-LeHoangVu\LTDTBuoi01-NguyenKimLong\bin\Debug\LTDTBuoi01-LeHoangVu.exe.config
+D:\LTDTBuoi01-LeHoangVu\LTDTBuoi01-NguyenKimLong\bin\Debug\LTDTBuoi01-LeHoangVu.exe
+D:\LTDTBuoi01-LeHoangVu\LTDTBuoi01-NguyenKimLong\bin\Debug\LTDTBuoi01-LeHoangVu.pdb
+D:\LTDTBuoi01-LeHoangVu\LTDTBuoi01-NguyenKimLong\obj\Debug\LTDTBuoi01-LeHoangVu.csprojAssemblyReference.cache
+D:\LTDTBuoi01-LeHoangVu\LTDTBuoi01-NguyenKimLong\obj\Debug\LTDTBuoi01-LeHoangVu.csproj.CoreCompileInputs.cache
+D:\LTDTBuoi01-LeHoangVu\LTDTBuoi01-NguyenKimLong\obj\Debug\LTDTBuoi01-LeHoangVu.exe
+D:\LTDTBuoi01-LeHoangVu\LTDTBuoi01-NguyenKimLong\obj\Debug\LTDTBuoi01-LeHoangVu.pdb

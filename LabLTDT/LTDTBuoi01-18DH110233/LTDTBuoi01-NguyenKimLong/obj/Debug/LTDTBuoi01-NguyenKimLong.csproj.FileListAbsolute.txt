@@ -1,0 +1,7 @@
+D:\LTDTBuoi01-NguyenKimLong\LTDTBuoi01-NguyenKimLong\obj\Debug\LTDTBuoi01-NguyenKimLong.csprojAssemblyReference.cache
+D:\LTDTBuoi01-NguyenKimLong\LTDTBuoi01-NguyenKimLong\obj\Debug\LTDTBuoi01-NguyenKimLong.csproj.CoreCompileInputs.cache
+D:\LTDTBuoi01-NguyenKimLong\LTDTBuoi01-NguyenKimLong\bin\Debug\LTDTBuoi01-NguyenKimLong.exe.config
+D:\LTDTBuoi01-NguyenKimLong\LTDTBuoi01-NguyenKimLong\bin\Debug\LTDTBuoi01-NguyenKimLong.exe
+D:\LTDTBuoi01-NguyenKimLong\LTDTBuoi01-NguyenKimLong\bin\Debug\LTDTBuoi01-NguyenKimLong.pdb
+D:\LTDTBuoi01-NguyenKimLong\LTDTBuoi01-NguyenKimLong\obj\Debug\LTDTBuoi01-NguyenKimLong.exe
+D:\LTDTBuoi01-NguyenKimLong\LTDTBuoi01-NguyenKimLong\obj\Debug\LTDTBuoi01-NguyenKimLong.pdb
